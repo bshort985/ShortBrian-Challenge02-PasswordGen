@@ -9,5 +9,5 @@ created multiple for loops to pull random charctors
 ![image](https://user-images.githubusercontent.com/97572888/156225020-54012286-1b16-4bd0-9c51-13c216e67fa9.png)
 
 
-websit URL: https://bshort985.github.io/ShortBrian-Challenge02-PasswordGen/
-GitHub URL: 
+GitHub URL: git@github.com:bshort985/ShortBrian-Challenge02-PasswordGen.git
+Original GitHub URL: git@github.com:bshort985/ShortBrian-PassWordGen.git
